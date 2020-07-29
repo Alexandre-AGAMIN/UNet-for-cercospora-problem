@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\keras_segmentation",
+    "\\keras_segmentation\\models"
+  ],
+  "SelectedNode": "\\keras_segmentation\\models\\unet.py",
+  "PreviewInSolutionExplorer": false
+}
