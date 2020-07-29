@@ -1,0 +1,2 @@
+model_checkpoint_path: "UnetWeights.h5.0"
+all_model_checkpoint_paths: "UnetWeights.h5.0"
